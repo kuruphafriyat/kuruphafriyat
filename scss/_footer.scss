@@ -8,3 +8,12 @@
 .copyright {
   background-color: darken($secondary, 10%);
 }
+
+.company-info {
+  list-style: none;
+  text-align: left;
+
+  .fa {
+    font-size: inherit;
+  }
+} 
